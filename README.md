@@ -1,4 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Top-Coins-React-Task
+
+Task:
+
+https://github.com/WATTx/code-challenges/blob/master/frontend-engineer-challenge-top-coins.md
+
+## Stack:
+
+- React
+- Redux with Thunk
+- React Bootstrap
+- React Router
+- Recharts
 
 ## Available Scripts
 
